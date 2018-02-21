@@ -1,0 +1,118 @@
+.content-div{
+/*    background-color:cornflowerblue;*/
+    background-color:#003366;
+    padding-left: 10px;
+}
+
+.content-inner{
+    padding-left: 335px;
+    padding-top: 32px;
+/*padding-top: 20px;*/
+}
+
+.RegistrationBox{
+/*    background-color:#003366;*/
+}
+
+.submmt{
+   
+    background-color: #E0DEDE;
+    color: black;
+    padding: 10px 84px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    cursor: pointer;
+    text-decoration-color: white;
+    float: right;
+    margin-right: 54%;
+}
+
+.chckbx{
+    color: white;
+     float: right;
+    margin-right: 54%;
+}
+.btmlines{
+    padding-bottom:30px;
+    width: 1005px;
+    margin-top: 100px;
+/*     margin: 0 auto;*/
+}
+
+
+.Disclmr{
+    color:white;
+    width: 60%;
+    float: right;
+}
+
+.hlnks{
+    text-align: left;
+    width: 40%;
+    float: left;
+}
+
+.uitem{
+    border-right: 1px solid white;
+    display: inline;
+    font-weight: normal;
+    line-height: 15px;
+    list-style: none outside none;
+    padding: 0 8px 2px;
+   
+}
+.atag{
+     text-decoration: none;
+    color: white;
+}
+
+.iptbox{
+    width: 438%;
+    height: 39px;
+}
+
+.txte{
+     color: white;
+}
+
+.FullName ,.Phone,.Password,.email,.Dateofbirth{
+    border-left-style: solid;
+    border-left-width: 10px;
+    border-left-color: cornflowerblue;
+    width:100px;
+    height: 40px;
+}
+
+.error_container{
+    color:white;
+    width:300px;
+}
+/*
+.Phone{
+    border-left-style: solid;
+    border-left-width: 10%;
+    border-left-color: cornflowerblue;
+}
+*/
+/*
+
+.Password{
+    border-left-style: solid;
+    border-left-width: 10%;
+    border-left-color: cornflowerblue;
+}
+
+.email{
+    border-left-style: solid;
+    border-left-width: 10%;
+    border-left-color: cornflowerblue;
+}
+
+.Dateofbirth{
+    border-left-style: solid;
+    border-left-width: 10%;
+    border-left-color: cornflowerblue;
+}*/
